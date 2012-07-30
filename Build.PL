@@ -4,11 +4,11 @@ use warnings;
 use Alien::Base::ModuleBuild;
 
 my $builder = Alien::Base::ModuleBuild->new(
-  module_name => 'Alien::DontPanic',
-  dist_abstract => 'Test Module for Alien::Base',
+  module_name => 'Acme::Alien::DontPanic',
   license => 'perl',
   configure_requires => {
     'Alien::Base' => 0,
+    'Module::Build' => 0.38,
   },
   requires => {
     'perl' => '5.8.1',
