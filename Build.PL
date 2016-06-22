@@ -46,8 +46,8 @@ my $builder = Alien::Base::ModuleBuild->new(
   alien_inline_auto_include => [ 'libdontpanic.h' ],
   meta_merge => {
     resources  => {
-      repository => "http://github.com/Perl5-Alien/Alien-Base-Extras",
-      bugtracker => "http://github.com/Perl5-Alien/Alien-Base-Extras/issues",
+      repository => "http://github.com/Perl5-Alien/Acme-Alien-DontPanic",
+      bugtracker => "http://github.com/Perl5-Alien/Acme-Alien-DontPanic/issues",
       x_MailingList => 'https://groups.google.com/forum/#!forum/perl5-alien',
       x_IRC => "irc://irc.perl.org/#native",
     },
