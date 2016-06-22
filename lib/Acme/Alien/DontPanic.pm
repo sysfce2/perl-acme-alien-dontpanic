@@ -42,7 +42,7 @@ L<Acme::Ford::Prefect>
 
 =head1 SOURCE REPOSITORY
 
-L<http://github.com/jberger/Alien-Base-Extras>
+L<http://github.com/Perl5-Alien/Alien-Base-Extras>
 
 =head1 AUTHOR
 
