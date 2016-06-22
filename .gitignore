@@ -1,0 +1,8 @@
+/Build
+/MYMETA.*
+/_alien/
+/_build/
+/_share/
+/blib/
+t/static_link/main.o
+t/static_link/main.so
