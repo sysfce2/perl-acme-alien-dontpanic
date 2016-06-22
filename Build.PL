@@ -38,9 +38,10 @@ my $builder = Alien::Base::ModuleBuild->new(
   alien_name => 'dontpanic',
   alien_isolate_dynamic => 1,
   alien_repository => {
-    protocol => 'local',
-    location => 'inc',
-    pattern  => qr/^dontpanic-([\d\.]+)\.tar\.gz$/,
+    protocol => 'https',
+    host     => 'perl5-alien.github.io',
+    location => '/page/dontpanic.html',
+    pattern  => qr/\/([\d\.]+)\.tar\.gz$/,
   },
   alien_inline_auto_include => [ 'libdontpanic.h' ],
   meta_merge => {

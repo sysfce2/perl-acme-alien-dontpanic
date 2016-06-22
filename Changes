@@ -1,5 +1,9 @@
 Revision history for Perl module Acme::Alien::DontPanic.
 
+  - No longer bundle dontpanic with this dist, instead download
+    it from the official release site:
+      https://perl5-alien.github.io/page/dontpanic.html
+
 0.029  Jun 22, 2016
   - Require Alien:Base 0.029
 
