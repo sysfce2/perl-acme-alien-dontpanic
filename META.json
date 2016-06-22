@@ -32,7 +32,8 @@
          "requires" : {
             "Capture::Tiny" : "0",
             "ExtUtils::CBuilder" : "0",
-            "Test2" : "0.000042",
+            "Test2" : "1.302015",
+            "Test2::Suite" : "0.000030",
             "Test::Alien" : "0.05",
             "Test::More" : "0"
          }

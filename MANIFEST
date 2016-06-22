@@ -7,6 +7,7 @@ META.json
 META.yml
 README
 t/00-use.t
+t/command.t
 t/eud.t
 t/ffi.t
 t/static_link.t
