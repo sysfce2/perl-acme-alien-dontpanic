@@ -17,13 +17,13 @@
    "prereqs" : {
       "configure" : {
          "requires" : {
-            "Alien::Base::ModuleBuild" : "0.029",
+            "Alien::Base::ModuleBuild" : "0.030",
             "Module::Build" : "0.38"
          }
       },
       "runtime" : {
          "requires" : {
-            "Alien::Base" : "0.029",
+            "Alien::Base" : "0.030",
             "File::ShareDir" : "1.00",
             "perl" : "5.008001"
          }
@@ -42,7 +42,7 @@
    "provides" : {
       "Acme::Alien::DontPanic" : {
          "file" : "lib/Acme/Alien/DontPanic.pm",
-         "version" : "0.029"
+         "version" : "0.030"
       }
    },
    "release_status" : "stable",
@@ -59,6 +59,6 @@
       "x_IRC" : "irc://irc.perl.org/#native",
       "x_MailingList" : "https://groups.google.com/forum/#!forum/perl5-alien"
    },
-   "version" : "0.029",
-   "x_serialization_backend" : "JSON::PP version 2.27300"
+   "version" : "0.030",
+   "x_serialization_backend" : "JSON::PP version 2.27400"
 }
