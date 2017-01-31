@@ -1,5 +1,8 @@
 Revision history for Perl module Acme::Alien::DontPanic.
 
+0.031  Jan 31, 2016
+  - Require Alien::Base 0.031
+
 0.030  Nov 2, 2016
   - Require Alien::Base 0.030
   - No longer bundle dontpanic with this dist, instead download
