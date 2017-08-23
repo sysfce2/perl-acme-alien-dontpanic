@@ -21,7 +21,7 @@ my $builder = Alien::Base::ModuleBuild->new(
     'Module::Build' => 0.38,
   },
   test_requires => {
-    'Test::More'         => 0,
+    'Test2::V0'           => 0,
     'ExtUtils::CBuilder' => 0,
     'Capture::Tiny'      => 0,
     'Test::Alien'        => '0.05',
