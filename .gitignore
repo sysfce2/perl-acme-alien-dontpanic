@@ -1,11 +1,7 @@
-/Build
-/MYMETA.*
-/_alien/
-/_build/
-/_share/
-/blib/
+/Acme-Alien-DontPanic-*
+/.build
+*.swp
 /t/static_link/main.o
 /t/static_link/main.so
 /t/static_link/main.bundle
-/Acme-Alien-DontPanic-*
 *.bak
