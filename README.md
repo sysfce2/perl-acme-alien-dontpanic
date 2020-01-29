@@ -6,7 +6,7 @@ Test Module for Alien::Base::ModuleBuild
 
 [Alien::Base](https://metacpan.org/pod/Alien::Base) comprises base classes to help in the construction of `Alien::` modules. Modules in the [Alien](https://metacpan.org/pod/Alien) namespace are used to locate and install (if necessary) external libraries needed by other Perl modules.
 
-This module is a toy module to test the efficacy of the [Alien::Base](https://metacpan.org/pod/Alien::Base) system. This module is depended on by another toy module [Acme::Ford::Prefect](https://metacpan.org/pod/Acme::Ford::Prefect), which needs the `libdontpanic` library to be able to tell us the `answer`.
+This module is a toy module to test the efficacy of the [Alien::Base::ModuleBuild](https://metacpan.org/pod/Alien::Base::ModuleBuild) system. This module is depended on by another toy module [Acme::Ford::Prefect](https://metacpan.org/pod/Acme::Ford::Prefect), which needs the `libdontpanic` library to be able to tell us the `answer`.
 
 # SEE ALSO
 
