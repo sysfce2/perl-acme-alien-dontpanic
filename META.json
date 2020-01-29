@@ -5,7 +5,7 @@
       "Joel A. Berger <joel.a.berger@gmail.com>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "Module::Build version 0.4224",
+   "generated_by" : "Module::Build version 0.4229",
    "license" : [
       "perl_5"
    ],
@@ -65,5 +65,5 @@
       "x_MailingList" : "https://groups.google.com/forum/#!forum/perl5-alien"
    },
    "version" : "1.03",
-   "x_serialization_backend" : "JSON::PP version 2.97001"
+   "x_serialization_backend" : "JSON::PP version 4.04"
 }
