@@ -1,4 +1,7 @@
-Revision history for Perl module Acme::Alien::DontPanic.
+Revision history for Perl {{$dist->name}}
+
+{{$NEXT}}
+  - Switched to Dist::Zilla for speedy releases.
 
 1.96 2020-01-28 23:35:59 -0700
   - Require Alien::Base::ModuleBuild 1.08
