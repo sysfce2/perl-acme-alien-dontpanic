@@ -10,7 +10,6 @@ my %modules;
 my $post_diag;
 
 $modules{$_} = $_ for qw(
-  Acme::Alien::DontPanic::Install::Files
   Alien::Base
   Alien::Base::ModuleBuild
   Alien::Build
