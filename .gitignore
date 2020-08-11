@@ -5,3 +5,4 @@
 /t/static_link/main.so
 /t/static_link/main.bundle
 *.bak
+*.tmp
