@@ -1,4 +1,4 @@
-# Acme::Alien::DontPanic [![Build Status](https://secure.travis-ci.org/Perl5-Alien/Acme-Alien-DontPanic.png)](http://travis-ci.org/Perl5-Alien/Acme-Alien-DontPanic)
+# Acme::Alien::DontPanic [![Build Status](https://travis-ci.org/PerlAlien/Acme-Alien-DontPanic.svg)](http://travis-ci.org/PerlAlien/Acme-Alien-DontPanic)
 
 Test Module for Alien::Base::ModuleBuild
 
