@@ -1,6 +1,7 @@
 Revision history for Perl {{$dist->name}}
 
 {{$NEXT}}
+  - Migrate inline tests from ABMB
 
 2.2600    2020-08-12 04:15:50 -0600
   - Require Alien::Build 2.26
