@@ -45,6 +45,9 @@ jobs:
     - env: CIP_TAG=5.10 CIP_ENV='ALIEN_INSTALL_TYPE=system TMPDIR=/home/cip/tmp'
     - env: CIP_TAG=5.8  CIP_ENV='ALIEN_INSTALL_TYPE=share  TMPDIR=/home/cip/tmp'
     - env: CIP_TAG=5.8  CIP_ENV='ALIEN_INSTALL_TYPE=system TMPDIR=/home/cip/tmp'
+  allow_failures:
+    - env: CIP_TAG=5.10 CIP_ENV='ALIEN_INSTALL_TYPE=share  TMPDIR=/home/cip/tmp'
+    - env: CIP_TAG=5.10 CIP_ENV='ALIEN_INSTALL_TYPE=system TMPDIR=/home/cip/tmp'
 
 branches:
   only:
