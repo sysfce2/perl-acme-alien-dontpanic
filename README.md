@@ -21,7 +21,7 @@ This module is a toy module to test the efficacy of the [Alien::Base::ModuleBuil
 
 # COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2012-2020 by Joel A Berger.
+This software is copyright (c) 2012-2022 by Joel A Berger.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
