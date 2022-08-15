@@ -17,7 +17,6 @@ jobs:
       fail-fast: false
       matrix:
         cip:
-          - tag: "static"
           - install_type: share
             tag: "5.37"
           - install_type: system

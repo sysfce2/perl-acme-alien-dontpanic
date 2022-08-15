@@ -1,4 +1,4 @@
-# Acme::Alien::DontPanic ![linux](https://github.com/PerlAlien/Acme-Alien-DontPanic/workflows/linux/badge.svg)
+# Acme::Alien::DontPanic ![static](https://github.com/PerlAlien/Acme-Alien-DontPanic/workflows/static/badge.svg) ![linux](https://github.com/PerlAlien/Acme-Alien-DontPanic/workflows/linux/badge.svg)
 
 Test Module for Alien::Base::ModuleBuild
 
