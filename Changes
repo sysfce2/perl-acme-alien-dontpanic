@@ -1,6 +1,9 @@
 Revision history for Perl {{$dist->name}}
 
 {{$NEXT}}
+
+2.5900    2022-08-16 09:50:03 -0600
+  - Require Alien::Build 2.59
   - Check cryptographic signature via Digest::Negotiate (gh#11)
 
 2.5300    2022-08-12 14:26:36 -0600
