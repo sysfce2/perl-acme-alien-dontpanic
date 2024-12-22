@@ -6,3 +6,5 @@
 /t/static_link/main.bundle
 *.bak
 *.tmp
+*.old
+*.orig
